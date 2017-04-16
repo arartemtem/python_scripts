@@ -1,7 +1,9 @@
+# This script translateы text (ru-en or en-ru) using yandex translate api
+
 import json
 import requests
 
-api_key = 'trnsl.1.1.20170325T072008Z.efcdb38a4a5a6507.a37fbdba88fed8c6cf2fb72b2323f0be49280539'    # your api key here
+api_key = 'YOUR API KEY'    # your api key here
 
 
 def translate(langs):

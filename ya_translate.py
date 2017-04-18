@@ -1,4 +1,4 @@
-# This script translateы text (ru-en or en-ru) using yandex translate api
+# This script translate text (ru-en or en-ru) using yandex translate api
 
 import json
 import requests
